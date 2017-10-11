@@ -1,3 +1,4 @@
+# Stage 1
 ## Issue for missing fortran
 
 sudo apt-get install libatlas-base-dev gfortran
@@ -12,3 +13,13 @@ sudo apt-get install libatlas-base-dev gfortran
 - orange is a good pkg as well
 - How to set threshold: use statistical features
 - can combine features(lift, confidence, support) to create new feature
+
+# Stage 2
+
+## Comments from others
+- Should do better visualization, especially for results(wordcloud, other fancy graphical interfaces)
+
+## Comments from TA/instructor
+- Don't only think of BoW on every single words, think about phrases, or at least "size-2", "size-3" metawords
+- Should evaluate at every step
+
